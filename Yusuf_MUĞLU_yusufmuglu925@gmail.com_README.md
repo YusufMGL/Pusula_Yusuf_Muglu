@@ -82,10 +82,15 @@ Bu temiz ve işlenmiş veri seti final_dataset.xlsx adıyla kaydedilmiştir.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Kullanılan kütüphaneler 
 Pandas
+
 Numpy
+
 seaborn
+
 matplotlib.pyplot
+
 from sklearn.impute import SimpleImputer, KNNImputer
+
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder, StandardScaler
 
 
